@@ -18,3 +18,5 @@ python app_tracemalloc.py
 4. Fazer chamadas em `http://127.0.0.1:5000/random` para gerar vazamento de memória
 
 5. Ver vazamento de memória acusado em `http://127.0.0.1:5000/snapshot`
+
+![image](https://github.com/user-attachments/assets/86918412-32dd-4b02-b755-2dabfef7f269)
